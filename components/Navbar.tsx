@@ -11,7 +11,7 @@ const navIcons = [
 
 const Navbar = () => {
   return (
-    <header className='w-full bg-slate-300'>
+    <header className='w-full bg-slate-300 fixed z-50'>
 
       <nav className='nav '>
         <Link href={"/"} className='flex items-center gap-1'>

@@ -16,11 +16,11 @@ export default function RootLayout({
   children: React.ReactNode
 }) {
   return (
-    <html lang="en">
+    <html lang="pt-br">
       <body className={inter.className}>
         {/* Always importante to set a max-width */}
+        <Navbar />
         <main className="max-w-10xl mx-auto">
-          <Navbar />
           {children}
         </main>
       </body>

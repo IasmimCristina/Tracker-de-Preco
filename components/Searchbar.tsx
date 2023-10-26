@@ -1,9 +1,10 @@
 "use client"
 
-import React from 'react'
+import React, { useState } from 'react'
 
 const Searchbar = () => {
 
+  const [searchPrompt, setSearchPrompt] = useState("")
 
   const handleSubmit = () => { }
   return (
