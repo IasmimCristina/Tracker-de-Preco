@@ -1,7 +1,16 @@
 import HeroCarousel from '@/components/HeroCarousel'
+import ProductCard from '@/components/ProductCard';
 import Searchbar from '@/components/Searchbar'
+import { products } from '@/constants';
 import Image from 'next/image'
 import React from 'react'
+
+
+
+
+
+
+
 
 const Home = () => {
   return (
@@ -49,8 +58,18 @@ const Home = () => {
         <h2 className="section-text">Trending!</h2>
 
         <div className="flex flex-wrap gap-x-8 gap-y-16">
-          {['Apple Iphone 15', 'Book', 'Sneakers'].map((product) => (
-            <div className="">{product}</div>
+          {products.map((product) => (
+            <div className="">
+
+
+
+              <ProductCard title={product.title} image={product.image} category={product.category} currency={product.currency} price={product.price} key={product.title} />
+
+              {/* <Image src={product.image} alt={product.title} width={484} height={484} className='object-contain' key={product.title} /> */}
+
+
+
+            </div>
           ))}
         </div>
       </div>
