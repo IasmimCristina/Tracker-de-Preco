@@ -18,6 +18,8 @@ const Navbar = () => {
 
           <Image title='PreçoSábio' alt='Logomarca' width={27} height={27} src={"/assets/icons/logo.svg"} />
 
+          <Image title='PreçoSábio' alt='Logomarca' width={27} height={27} src={"/assets/icons/logo.svg"} />
+
           <p className='nav-logo'>Preço<span className='text-primary'>Sábio</span></p>
         </Link>
 
