@@ -33,7 +33,6 @@ const Navbar = () => {
   }, []);
 
 
-
   return (
     <header className={` ${isScrolled ? 'bg-red-200 opacity-80 border-b-4 border-b-slate-500 ' : ''}  w-full bg-slate-300 fixed z-50 ease-in-out duration-300`}>
 
