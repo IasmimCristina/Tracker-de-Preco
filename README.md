@@ -15,6 +15,12 @@ O "Tracker de Preço" é uma landing page sem funcionalidade por enquanto. Este 
 ## Uso
 1. Acesse o projeto [aqui](https://tracker-de-preco.vercel.app).
 
+## Inspirado no Vídeo
+
+Este projeto foi inspirado no vídeo "Web Scraping Full Course 2023 | Build and Deploy eCommerce Price Tracker" no YouTube. O vídeo oferece valiosos insights sobre web scraping e rastreamento de preços de comércio eletrônico. Assista ao vídeo para obter mais informações:
+
+[![Assista ao Vídeo](https://img.youtube.com/vi/lh9XVGv6BHs/0.jpg)](https://www.youtube.com/watch?v=lh9XVGv6BHs)
+
 
 ## Tecnologias Utilizadas
 - [Next.js](https://nextjs.org/)
