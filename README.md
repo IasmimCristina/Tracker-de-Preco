@@ -1,36 +1,57 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![banners-gihub-final](https://user-images.githubusercontent.com/100351576/198029195-06625761-f2a2-4e25-8729-e6ad58541c57.gif)
 
-## Getting Started
+***
 
-First, run the development server:
+# 🛒 Tracker de Preço
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+![Captura de tela](https://github.com/IasmimCristina/tracker-de-preco/assets/100351576/ecb0f60d-72d4-4f44-bea7-f3d47f05d98e)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Descrição
+O "Tracker de Preço" é uma landing page sem funcionalidade por enquanto. Este projeto foi criado para testar habilidades de design UI/UX e criar uma landing page de produtos atraente. O website é responsivo e foi desenvolvido utilizando tecnologias modernas como Next.js, TypeScript, React e Tailwind CSS.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+## Uso
+1. Acesse o projeto [aqui](https://tracker-de-preco.vercel.app).
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Tecnologias Utilizadas
+- [Next.js](https://nextjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [React](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
 
-## Deploy on Vercel
+## Capturas de Tela
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+![Captura de tela](https://github.com/IasmimCristina/tracker-de-preco/assets/100351576/c953f50a-389b-4f62-b4b5-1f74e46439f8)
+*Landing Page do projeto.*
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![Captura de tela de 2023-10-27 17-43-58](https://github.com/IasmimCristina/tracker-de-preco/assets/100351576/3314ce60-0137-413a-9143-a280689ad88d)
+*Versão mobile do projeto.*
+
+## Contribuições
+Contribuições são bem-vindas! Se você deseja contribuir para o projeto, siga estas etapas:
+1. Faça um fork do repositório.
+2. Crie uma branch com sua contribuição: `git checkout -b minha-contribuicao`.
+3. Faça commit de suas alterações: `git commit -m 'Adicione uma nova funcionalidade'`.
+4. Envie suas alterações para o seu fork: `git push origin minha-contribuicao`.
+5. Abra um Pull Request para este repositório.
+
+
+---
+
+## 🔗 Links 🕶️
+
+</div>
+
+<div align="center">
+      
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ias-cristina)
+      
+</div>
+
+---
+
+
+
